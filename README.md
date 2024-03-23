@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anomwidyartha&label=Profile%20views&color=0e75b6&style=flat" alt="anomwidyartha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anomwidyartha" alt="anomwidyartha" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning, Data Analytics, Physics, and Science**
 
 - 📫 How to reach me **gustiagunganom30@gmail.com**
